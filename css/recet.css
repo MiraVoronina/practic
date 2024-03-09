@@ -1,0 +1,23 @@
+@import "./recet.css";
+@media screen and (min-width: 768px) {
+    /* Стили для ноутбуков и мониторов */
+    body {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .lix {
+        margin-right: 30px;
+    }
+    .lix1 {
+        margin-right: 25px;
+    }
+    .lix2 {
+        margin-right: 250px;
+    }
+    .lix3 {
+        margin-right: 8px;
+    }
+    .lix4 {
+        margin-right: 12px;
+    }
+}
